@@ -1,0 +1,31 @@
+.box {float:left; clear:left}
+
+h1 {
+	text-align:center;
+	color:white;
+	font-size:400%;
+}
+
+body {
+	background-color:black;
+	color:white;
+}
+
+label {
+	font-size:large;
+	float:left;
+	clear:left;
+}
+
+input {
+	text-align:center;
+	font-size:large;
+	float:left;
+	clear:left;
+}
+
+input.wage {
+	text-align:center;
+	font-size:large
+}
+
